@@ -50,7 +50,4 @@ The interactive dashboard includes:
 - `lookerstudio/` — calculated field formulas and dashboard setup notes  
 - `README.md` — project documentation  
 
-## How to reproduce
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
+
